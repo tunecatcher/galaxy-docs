@@ -14,7 +14,7 @@ You are free to use Galaxy's built-in domain names. If you're in the US region (
 
 If your app is deployed at a subdomain such as `www.mycompany.com` or `app.mycompany.com`, simply add a CNAME record to your DNS provider pointing to:
 
-- `us-east-1.galaxy-ingress.meteor.com` for applications in the us-east-1 region. 
+- `galaxy-ingress.meteor.com` for applications in the us-east-1 region. 
 
 - `eu-west-1.galaxy-ingress.meteor.com` for applications in the eu-west-1 region.  
 
